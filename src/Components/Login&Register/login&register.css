@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0,0, 0.7);
+}
+.log_con{
+    margin: 90px 550px 110px 550px;
+    height: 560px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;
+}
+.log_header{
+    margin-left: 125px;
+    margin-bottom: 0px;
+    height: 10px;
+}
+.log_title{
+    margin-left: 165px;
+}
+.log_in{
+    width: 350px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 40px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+.log_checkbox{
+    margin-left: 40px;
+}
+.log_but{
+    width: 350px;
+    margin-left: 40px;
+    height: 40px;
+    background-color: black;
+}
+.log_for{
+    margin-left: 300px;
+    cursor: pointer;
+}
+.log_or{
+    text-align: center;
+}
+.log_sign{
+    text-align: center;
+    cursor: pointer;
+}
+
+
+/* register */
+.reg_con{
+    margin: 60px 550px 30px 550px;
+    height: 650px;
+    display: flex;
+    flex-direction: column;
+    background-color: white;
+    border-radius: 10px;
+}
+.reg_header{
+    margin-left: 120px;
+    margin-bottom: 0px;
+    height: 10px;
+}
+.reg_title{
+    margin-left: 165px;
+}
+.reg_img{
+    margin-left: 160px;
+}
+.reg_in{
+    width: 350px;
+    height: 40px;
+    margin-top: 6px;
+    margin-left: 40px;
+    border: none;
+    border-bottom: 2px solid black;
+}
+.reg_but{
+    width: 350px;
+    margin-left: 40px;
+    height: 40px;
+    background-color: black;
+}
+.reg_or{
+    text-align: center;
+}
+.reg_sign{
+text-align: center;
+cursor: pointer;
+}
